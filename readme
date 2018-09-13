@@ -1,0 +1,6 @@
+python3环境下进行开发
+1.爬取房源数据
+2.搭建web服务器
+	终端：python3 -m http.server 8000（当前路径底下有.html文件）
+	浏览器：localhost:8000访问
+3.导入rent.csv房源数据文件查看
